@@ -11,7 +11,7 @@
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
-		<spring.version>4.3.2.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<jackson.version>2.6.3</jackson.version>
 		<jstl.version>1.2</jstl.version>
 		<guava.version>19.0</guava.version>
